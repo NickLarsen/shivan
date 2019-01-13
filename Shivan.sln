@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{82D7517B-897
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shivan.Web", "src\Shivan.Web\Shivan.Web.csproj", "{28054E51-BB89-46FF-8DBD-4D1EE90D7658}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shivan.Test", "src\Shivan.Test\Shivan.Test.csproj", "{6F40AEC7-8393-4A3E-8477-6E20E37DB410}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,8 +34,21 @@ Global
 		{28054E51-BB89-46FF-8DBD-4D1EE90D7658}.Release|x64.Build.0 = Release|Any CPU
 		{28054E51-BB89-46FF-8DBD-4D1EE90D7658}.Release|x86.ActiveCfg = Release|Any CPU
 		{28054E51-BB89-46FF-8DBD-4D1EE90D7658}.Release|x86.Build.0 = Release|Any CPU
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410}.Debug|x64.Build.0 = Debug|Any CPU
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410}.Debug|x86.Build.0 = Debug|Any CPU
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410}.Release|x64.ActiveCfg = Release|Any CPU
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410}.Release|x64.Build.0 = Release|Any CPU
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410}.Release|x86.ActiveCfg = Release|Any CPU
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{28054E51-BB89-46FF-8DBD-4D1EE90D7658} = {82D7517B-8971-48F3-B6A8-F802B9AD3909}
+		{6F40AEC7-8393-4A3E-8477-6E20E37DB410} = {82D7517B-8971-48F3-B6A8-F802B9AD3909}
 	EndGlobalSection
 EndGlobal
